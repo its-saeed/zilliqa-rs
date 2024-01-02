@@ -1,3 +1,5 @@
+**This project is moved to [zilliqa-rs](https://github.com/zilliqa/zilliqa-rs)**
+
 # Getting started
 ## Create a new Provider
 ### From a URL
